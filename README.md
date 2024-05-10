@@ -24,7 +24,7 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-![Line](https://github.com/INam1995/INam1995/blob/main/1000_F_555912466_RiqQv8mv5xChGgYUJmiWfXJQig5exXMx-transformed.jpeg)
+<!--![Line](https://github.com/INam1995/INam1995/blob/main/1000_F_555912466_RiqQv8mv5xChGgYUJmiWfXJQig5exXMx-transformed.jpeg)-->
 <img align="center" alt="Coding" width="1000" src="https://github.com/hustler0109/hustler0109/blob/main/RESOURCES/Galaxy%20Business%20Digital%20Background.gif">
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
