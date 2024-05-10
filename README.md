@@ -14,7 +14,8 @@
   </a>
 </h1>
 <h3 align="center">An undergraduate and passionate Web Developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 
 - 📫 Reach out to me @ **inamyadav23@gmail.com**
   
