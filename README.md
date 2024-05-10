@@ -1,4 +1,4 @@
-![logo](https://github.com/INam1995/INam1995/blob/main/1000_F_555912466_RiqQv8mv5xChGgYUJmiWfXJQig5exXMx.jpg)
+![logo](https://github.com/INam1995/INam1995/blob/main/1000_F_555912466_RiqQv8mv5xChGgYUJmiWfXJQig5exXMx-transformed.jpeg)
 <h1 align="center">Hi 👋, I'm Inam Yadav</h1>
 <h3 align="center">An undergraduate at MNNIT Allahabad</h3>
 
