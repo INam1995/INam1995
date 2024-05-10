@@ -1,7 +1,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-<img align="center" alt="Coding" width="1000" height="300" src="https://github.com/INam1995/INam1995/blob/main/1000_F_555912466_RiqQv8mv5xChGgYUJmiWfXJQig5exXMx-transformed.jpeg">
+<img align="center" alt="Coding" width="1000" height="500" src="https://github.com/INam1995/INam1995/blob/main/1000_F_555912466_RiqQv8mv5xChGgYUJmiWfXJQig5exXMx-transformed.jpeg">
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
