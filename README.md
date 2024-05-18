@@ -18,7 +18,7 @@
 
 - 📫 Reach out to me @ **inamyadav23@gmail.com**
   
-- 💬  MNNIT Allahabad , Girlscript Foundation , GSSOC'24  
+- 💬  MNNIT Allahabad , GIRLSCRIPT.TECH , GSSOC'24  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
