@@ -92,7 +92,7 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sgvkamalakar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=INam1995&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -100,7 +100,7 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hustler0109&show_icons=true&locale=en&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=INam1995&show_icons=true&locale=en&layout=compact"/>
 </div>  
 
 <div align="center">
